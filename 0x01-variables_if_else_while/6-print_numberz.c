@@ -4,7 +4,7 @@
 /**
  * main - A program that prints all single digit numbers of base 10
  *
- * Return Always (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
