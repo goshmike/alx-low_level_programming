@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdli.h>
+#include <stdlib.h>
 #include <time.h>
 /**
  * main - A program that prints all single digit numbers of base 10
