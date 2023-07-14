@@ -7,6 +7,11 @@
  */
 int main(void)
 {
+<<<<<<< HEAD
     print_most_numbers();
     return (0);
+=======
+print_most_numbers();
+return (0);
+>>>>>>> 2e3c9e37d161d199f8b2ddf20282dd1fba011baf
 }

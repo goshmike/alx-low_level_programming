@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 #ifindef MAIN_H
 #define MAIN_H
 
 
+=======
+#ifndef MAIN_H
+#define MAIN_H
+
+>>>>>>> 2e3c9e37d161d199f8b2ddf20282dd1fba011baf
 int _putchar(char c);
 int _isupper(int c);
 int _isdigit(int c);
